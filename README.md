@@ -1,4 +1,4 @@
-# Python Assignment - 1 ____Student Attendance Tracker____
+# Python Assignment - 1 (Student Attendance Tracker)
 
 Department: SOET
 Session: 2025-26
