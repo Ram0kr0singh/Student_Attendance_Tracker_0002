@@ -20,16 +20,16 @@ def collect_attendance():
         while True:
             name = input("Student Name: ").strip()
             if name == "":
-                print("Name cannot be empty. Please re-enter.")
+                print("Name cannot be empty. Please re-enter.\n")
             elif name in attendance_records:
-                print("This student is already recorded. Enter a different name.")
+                print("This student is already recorded. Enter a different name. \n")
             else:
                 break
 
         while True:
             time = input("Check-in Time (e.g., 09:10 AM): ").strip()
             if time == "":
-                print("Check-in time cannot be empty. Please re-enter.")
+                print("Check-in time cannot be empty. Please re-enter. \n")
             else:
                 break
 
