@@ -1,6 +1,6 @@
 # Python Assignment - 1 (Student Attendance Tracker)
 
-Department: SOET
+### Department: SOET
 Session: 2025-26
 Program: MCA (AI & ML)
 Semester: I
