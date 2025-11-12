@@ -1,0 +1,10 @@
+Attendance Report
+----------------------------------------
+Ram Kumar Singh           09:05 AM       
+Manmeet                   09:33 AM       
+Nitin                     09:15          
+Harsh                     10:30 AM       
+----------------------------------------
+Total Present: 4
+Total Absent: 6
+Report Generated On: 12-11-2025  09:45 PM
